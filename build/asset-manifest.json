@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BM-Best-Movie/static/css/main.0f780e2d.css",
+    "main.js": "/BM-Best-Movie/static/js/main.954f2f50.js",
+    "static/js/787.63cf5733.chunk.js": "/BM-Best-Movie/static/js/787.63cf5733.chunk.js",
+    "static/media/Yu-Gi-Oh.jpg": "/BM-Best-Movie/static/media/Yu-Gi-Oh.fe6478acfb0e3d28d53c.jpg",
+    "static/media/Background.jpg": "/BM-Best-Movie/static/media/Background.ea7c0fa19be1976deff1.jpg",
+    "static/media/Pokemon.jpeg": "/BM-Best-Movie/static/media/Pokemon.284357fa155bee6f25bc.jpeg",
+    "static/media/IronMan.jpg": "/BM-Best-Movie/static/media/IronMan.5d61a25a2f66728224cd.jpg",
+    "static/media/Spiderman.jpg": "/BM-Best-Movie/static/media/Spiderman.ade5b10852f5d49429d3.jpg",
+    "static/media/Avengers.jpg": "/BM-Best-Movie/static/media/Avengers.645c65c1e62484f23fd8.jpg",
+    "static/media/Digimon.webp": "/BM-Best-Movie/static/media/Digimon.ce1ee00cde6d83632770.webp",
+    "index.html": "/BM-Best-Movie/index.html",
+    "main.0f780e2d.css.map": "/BM-Best-Movie/static/css/main.0f780e2d.css.map",
+    "main.954f2f50.js.map": "/BM-Best-Movie/static/js/main.954f2f50.js.map",
+    "787.63cf5733.chunk.js.map": "/BM-Best-Movie/static/js/787.63cf5733.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f780e2d.css",
+    "static/js/main.954f2f50.js"
+  ]
+}

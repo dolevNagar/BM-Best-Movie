@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+body{
+    background-image: url(Background.jpg);
+    background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#headerH{
+    font-size: 75px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.gradeBTN{
+    height: 75px;
+    width: 75px;
+    font-size: xx-large;
+    font-family: cursive;
+    background: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.gradeBTN:hover{
+    background-color: green;
 }
 
-.App-link {
-  color: #61dafb;
+.movieBTN{
+    background: none;
+    background-size: cover;
+    height: 130px;
+    width: 130px;
+    font-Weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1.2rem;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+    cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.movieBTN:hover{
+    background-color: green;
+    opacity: 0.8;
+}
+
+.movieDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 800px;
+    background-Size: cover;
+}
+
+#allNovieDiv{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 700px;
 }
