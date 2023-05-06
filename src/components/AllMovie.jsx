@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 export default function AllMovie(props) {
   const nav = useNavigate();
   const choseMovie = (movie) => {
-    props.setIndex(props.movie.indexOf(props.movie.find(selectedMovie => selectedMovie.name == movie)));
+    props.setIndex(props.movie.indexOf(props.movie.find(selectedMovie => selectedMovie.name == movie)),0);
   }
 
   const movieOfChoice = (movie) => {

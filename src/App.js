@@ -4,12 +4,11 @@ import { useState, useEffect } from 'react';
 import Header from './components/Header'
 import HomePage from './components/HomePage';
 import HighRating from './components/HighRating';
-import pokemon from './Pokemon.jpeg';
-import digimon from './Digimon.webp'
+import pokemon from './Pokemon.png';
+import digimon from './Digimon.png'
 import spiderman from './Spiderman.jpg'
 import YuGiOh from './Yu-Gi-Oh.jpg'
 import avengers from './Avengers.jpg'
-import ironman from './IronMan.jpg'
 
 function App() {
   const [index, setIndex] = useState(0);

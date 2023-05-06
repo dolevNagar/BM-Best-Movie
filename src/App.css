@@ -4,10 +4,18 @@ body{
 }
 
 #headerH{
-    font-size: 75px;
+    margin-top: 0%;
+    color: rgba(450, 200, 0, 0.956);
+    font-size: 100px;
+    font-family: cursive;
+}
+
+h1{
+    color: rgba(450, 200, 0, 0.956);
 }
 
 .gradeBTN{
+    color: rgba(450, 200, 0, 0.956);
     height: 75px;
     width: 75px;
     font-size: xx-large;
@@ -20,6 +28,7 @@ body{
 }
 
 .movieBTN{
+    color: rgb(188, 164, 164);
     background: none;
     background-size: cover;
     height: 130px;
@@ -30,7 +39,6 @@ body{
     padding: 10px 20px;
     margin: 10px;
     font-size: 1.2rem;
-    color: #fff;
     text-shadow: 1px 1px #000;
     cursor: pointer;
 }
@@ -48,7 +56,8 @@ body{
     background-Size: cover;
 }
 
-#allNovieDiv{
+#allMovieDiv{
+    
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
