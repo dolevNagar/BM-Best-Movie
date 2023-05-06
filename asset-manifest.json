@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/BM-Best-Movie/static/css/main.0f780e2d.css",
-    "main.js": "/BM-Best-Movie/static/js/main.954f2f50.js",
+    "main.css": "/BM-Best-Movie/static/css/main.6c6edeb5.css",
+    "main.js": "/BM-Best-Movie/static/js/main.dc698dbc.js",
     "static/js/787.63cf5733.chunk.js": "/BM-Best-Movie/static/js/787.63cf5733.chunk.js",
-    "static/media/Yu-Gi-Oh.jpg": "/BM-Best-Movie/static/media/Yu-Gi-Oh.fe6478acfb0e3d28d53c.jpg",
-    "static/media/Background.jpg": "/BM-Best-Movie/static/media/Background.ea7c0fa19be1976deff1.jpg",
-    "static/media/Pokemon.jpeg": "/BM-Best-Movie/static/media/Pokemon.284357fa155bee6f25bc.jpeg",
-    "static/media/IronMan.jpg": "/BM-Best-Movie/static/media/IronMan.5d61a25a2f66728224cd.jpg",
-    "static/media/Spiderman.jpg": "/BM-Best-Movie/static/media/Spiderman.ade5b10852f5d49429d3.jpg",
-    "static/media/Avengers.jpg": "/BM-Best-Movie/static/media/Avengers.645c65c1e62484f23fd8.jpg",
-    "static/media/Digimon.webp": "/BM-Best-Movie/static/media/Digimon.ce1ee00cde6d83632770.webp",
+    "static/media/Digimon.png": "/BM-Best-Movie/static/media/Digimon.d309a191888499e1df84.png",
+    "static/media/Spiderman.jpg": "/BM-Best-Movie/static/media/Spiderman.e8e794ac82e5fb9c89d6.jpg",
+    "static/media/Background.jpg": "/BM-Best-Movie/static/media/Background.ed1d3f85c1fb4e197892.jpg",
+    "static/media/Yu-Gi-Oh.jpg": "/BM-Best-Movie/static/media/Yu-Gi-Oh.084abb7219522b7b5b0d.jpg",
+    "static/media/Pokemon.png": "/BM-Best-Movie/static/media/Pokemon.2d8b7e37e20e4bd9d0c4.png",
+    "static/media/Avengers.jpg": "/BM-Best-Movie/static/media/Avengers.c7c06c35d3f43591c883.jpg",
     "index.html": "/BM-Best-Movie/index.html",
-    "main.0f780e2d.css.map": "/BM-Best-Movie/static/css/main.0f780e2d.css.map",
-    "main.954f2f50.js.map": "/BM-Best-Movie/static/js/main.954f2f50.js.map",
+    "main.6c6edeb5.css.map": "/BM-Best-Movie/static/css/main.6c6edeb5.css.map",
+    "main.dc698dbc.js.map": "/BM-Best-Movie/static/js/main.dc698dbc.js.map",
     "787.63cf5733.chunk.js.map": "/BM-Best-Movie/static/js/787.63cf5733.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f780e2d.css",
-    "static/js/main.954f2f50.js"
+    "static/css/main.6c6edeb5.css",
+    "static/js/main.dc698dbc.js"
   ]
 }
